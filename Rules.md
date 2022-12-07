@@ -1,6 +1,6 @@
 # Rules of 100 Days of Code Challenge
 ## Main Commitment
-### *I will code for at least an question every day for the next 100 days.*
+### *I will code for at least one question every day for the next 100 days.*
 #### Start Date
 December 8th, 2022.
 
