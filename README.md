@@ -3,7 +3,7 @@ Fork this template for the 100 days journal- this shows my 100 days Progress tha
 
 ## Content
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Log - click here to see my progress](Log.md)
 
 
 ## Note
