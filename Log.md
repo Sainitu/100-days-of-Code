@@ -23,7 +23,7 @@
 
 **Today's Progress**: I've gone through a question on GFG and same problem on Leetcode.
 
-**Thoughts** I solve the same problem on gfg and leetcode but I got stuck on one thing as the code I was trying on GFG does not run on leetcode as the question was same I know we have to change the solution acc. to the parameters given in the question I did so but after watching the discussion section I saw that many of the peeps have applied the same solution and got all test cases passed but I was getting TLE don't know the reason but after struggling a lot I got my code run properly.
+**Thoughts** I solve the same problem on gfg and leetcode but I got stuck on one thing as the code I was trying on GFG does not run on leetcode as the question was same I know we have to change the solution acc. to the parameters given in the question I did so but after watching the discussion section I saw that many of the peeps have applied the same solution and got all test cases passed but I was getting TLE , don't know the reason but after struggling a lot I got my code run properly.
 
 **Link(s) to work**
 1. [Search Element in rotated sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
