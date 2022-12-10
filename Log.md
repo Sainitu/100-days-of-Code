@@ -29,3 +29,11 @@
 1. [Search Element in rotated sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
 2. [Search in rotated sorted Array](https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1)
 
+### Day 4: December 10, Saturday
+
+**Today's Progress**: I've gone through a question on Leetcode.
+
+**Thoughts** I solve the same problem on leetcode but face lots of difficulty solving this as  I was not able to perfectly solve this as I know there is an inbuilt function to solve this question that's why I have to take help of Striver's video to understand the concept throughly.
+
+**Link(s) to work**
+1. [Next Permutation](https://leetcode.com/problems/next-permutation/submissions/857710865/)
