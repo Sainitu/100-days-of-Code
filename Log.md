@@ -37,3 +37,12 @@
 
 **Link(s) to work**
 1. [Next Permutation](https://leetcode.com/problems/next-permutation/submissions/857710865/)
+
+### Day 5: December 11, Sunday
+
+**Today's Progress**: I've gone through a medium level question on Leetcode.
+
+**Thoughts** I solve this problem with multiple solutions/concepts also I got to know how to implement minheap in c++ today.
+
+**Link(s) to work**
+1. [kth largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/858104273/)
