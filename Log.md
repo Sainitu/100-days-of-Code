@@ -49,9 +49,10 @@
 
 ### Day 6: December 12, Monday
 
-**Today's Progress**: I've gone through a medium level question on GFG.
+**Today's Progress**: I've gone through a medium level question on GFG and one hard level problem on leetcode.
 
 **Thoughts** I solve this problem with no issue but the main issue is the compiler of GFG giving correct output but still giving error in the driver code i think GFG sometime does not work properly.
 
 **Link(s) to work**
 1. [kth smallest element](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1)
+2. [Trapping Rainwater Problem](https://leetcode.com/problems/trapping-rain-water/submissions/858635904/)
