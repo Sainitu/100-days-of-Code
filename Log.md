@@ -56,3 +56,12 @@
 **Link(s) to work**
 1. [kth smallest element](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1)
 2. [Trapping Rainwater Problem](https://leetcode.com/problems/trapping-rain-water/submissions/858635904/)
+
+### Day 7: December 13, Tuesday
+
+**Today's Progress**: I've gone through a easy & most commonly asked question on leetcode.
+
+**Thoughts** I solve this problem with no issue.
+
+**Link(s) to work**
+1. [Best time to Buy & Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/859097805/)
