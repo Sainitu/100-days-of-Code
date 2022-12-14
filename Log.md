@@ -65,3 +65,12 @@
 
 **Link(s) to work**
 1. [Best time to Buy & Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/859097805/)
+
+### Day 8: December 14, Wednesday
+
+**Today's Progress**: I've gone through a easy & most common question on leetcode.
+
+**Thoughts** I solve this problem because I dont have internet today so I have just solve this question only but This will make my consistency alive.
+
+**Link(s) to work**
+1. [valid-anagram]https://leetcode.com/problems/valid-anagram/submissions/859770692/)
