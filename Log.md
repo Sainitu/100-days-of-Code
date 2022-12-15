@@ -76,3 +76,12 @@
 1. [valid-anagram](https://leetcode.com/problems/valid-anagram/submissions/859770692/)
 2. [find-all-anagrams-in-a-string](https://leetcode.com/problems/find-all-anagrams-in-a-string/submissions/859778348/)
 3. [find-missing-and-repeating](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article)
+
+### Day 9: December 15, Thursday
+
+**Today's Progress**: I've gone through an easy & most common question on leetcode.
+
+**Thoughts** I solve this problem because I dont have internet today so I have just solve this question only but This will make my consistency alive.
+
+**Link(s) to work**
+1. [Product of array except self](https://leetcode.com/problems/product-of-array-except-self/submissions/860195277/)
