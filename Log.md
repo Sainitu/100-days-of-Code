@@ -94,3 +94,4 @@
 
 **Link(s) to work**
 1. [find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/860745907/)
+2. [maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray/submissions/860758974/)
