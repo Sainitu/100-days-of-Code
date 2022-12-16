@@ -70,7 +70,7 @@
 
 **Today's Progress**: I've gone through a easy & most common question on leetcode & GFG.
 
-**Thoughts** I solve this problem because I dont have internet today so I have just solve this question only but This will make my consistency alive.
+**Thoughts** I solve this problem I solve this problem with no issue.
 
 **Link(s) to work**
 1. [valid-anagram](https://leetcode.com/problems/valid-anagram/submissions/859770692/)
@@ -85,3 +85,12 @@
 
 **Link(s) to work**
 1. [Product of array except self](https://leetcode.com/problems/product-of-array-except-self/submissions/860195277/)
+
+### Day 10: December 16, Friday
+
+**Today's Progress**: I've gone through an easy but an  important question on leetcode.
+
+**Thoughts** I solve this problem as these variation problem are important for the better understanding.
+
+**Link(s) to work**
+1. [find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/860745907/)
