@@ -95,3 +95,12 @@
 **Link(s) to work**
 1. [find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/860745907/)
 2. [maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray/submissions/860758974/)
+
+### Day 11: December 17, saturday
+
+**Today's Progress**: I've gone through an logical problem  on leetcode.
+
+**Thoughts** I solve this problem as these variation problem are important for the better understanding.
+
+**Link(s) to work**
+1. [3 Sum](https://leetcode.com/problems/3sum/submissions/861123420/)
