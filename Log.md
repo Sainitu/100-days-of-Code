@@ -113,3 +113,12 @@
 
 **Link(s) to work**
 1. [container-with-most-water](https://leetcode.com/problems/container-with-most-water/submissions/861597720/)
+
+### Day 13: December 19, Monday
+
+**Today's Progress**: I've gone through an good medium level problem  on GFG.
+
+**Thoughts** I solve this problem as these variation problem are important for the better understanding.
+
+**Link(s) to work**
+1. [next-permutation5226](https://practice.geeksforgeeks.org/problems/next-permutation5226/1)
