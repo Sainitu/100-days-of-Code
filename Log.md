@@ -122,3 +122,12 @@
 
 **Link(s) to work**
 1. [next-permutation5226](https://practice.geeksforgeeks.org/problems/next-permutation5226/1)
+
+### Day 14: December 20, Sunday
+
+**Today's Progress**: I've gone through a Easy level question on GFG.
+
+**Thoughts** I solve this problem with multiple solutions/concepts like 2 pointer n maps.
+
+**Link(s) to work**
+1. [Pair-With-Given-Sum](https://practice.geeksforgeeks.org/problems/pair-with-given-sum-in-a-sorted-array4940/1)
