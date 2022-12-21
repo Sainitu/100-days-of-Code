@@ -123,7 +123,7 @@
 **Link(s) to work**
 1. [next-permutation5226](https://practice.geeksforgeeks.org/problems/next-permutation5226/1)
 
-### Day 14: December 20, Sunday
+### Day 14: December 20, Tuesday
 
 **Today's Progress**: I've gone through a Easy level question on GFG.
 
@@ -131,3 +131,13 @@
 
 **Link(s) to work**
 1. [Pair-With-Given-Sum](https://practice.geeksforgeeks.org/problems/pair-with-given-sum-in-a-sorted-array4940/1)
+
+### Day 15: December 21,  Wednesday
+
+**Today's Progress**: I've gone through a question on GFG and same problem on Leetcode.
+
+**Thoughts** I solve the same problem on gfg and leetcode and this I saw that all the discription and test cases on both the platfrom is same.
+
+**Link(s) to work**
+1. [merge-intervals](https://leetcode.com/problems/merge-intervals/submissions/863240097/)
+2. [Overlapping Intervals](https://practice.geeksforgeeks.org/problems/8a644e94faaa94968d8665ba9e0a80d1ae3e0a2d/1)
