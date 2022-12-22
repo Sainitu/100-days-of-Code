@@ -141,3 +141,12 @@
 **Link(s) to work**
 1. [merge-intervals](https://leetcode.com/problems/merge-intervals/submissions/863240097/)
 2. [Overlapping Intervals](https://practice.geeksforgeeks.org/problems/8a644e94faaa94968d8665ba9e0a80d1ae3e0a2d/1)
+
+### Day 16: December 22, Thursday
+
+**Today's Progress**: I've gone through a question on leetcode.
+
+**Thoughts** I was not able to give time to this day as I have an compitation exam so I am just solving a simple proble to maintain consistancy.
+
+**Link(s) to work**
+1. [Reverse String](https://leetcode.com/problems/reverse-string/submissions/863886137/)
