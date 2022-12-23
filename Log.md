@@ -150,3 +150,12 @@
 
 **Link(s) to work**
 1. [Reverse String](https://leetcode.com/problems/reverse-string/submissions/863886137/)
+
+### Day 17: December 23, Friday
+
+**Today's Progress**: I've gone through an easy question on leetcode.
+
+**Thoughts** I solve this problem as these problem are important for the better understanding of Stack implementation.
+
+**Link(s) to work**
+1. [valid-parentheses](https://leetcode.com/problems/valid-parentheses/submissions/864358197/)
