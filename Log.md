@@ -159,3 +159,13 @@
 
 **Link(s) to work**
 1. [valid-parentheses](https://leetcode.com/problems/valid-parentheses/submissions/864358197/)
+
+### Day 18: December 24, Saturday
+
+**Today's Progress**: I've gone through a easy & most common question on leetcode & GFG.
+
+**Thoughts** I solve this problem using Stack.
+
+**Link(s) to work**
+1. [remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/submissions/864817022/)
+2. [Remove Consecutive Characters](https://practice.geeksforgeeks.org/problems/consecutive-elements2306/1)
