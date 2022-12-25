@@ -175,3 +175,6 @@
 **Today's Progress**: I've gone through a medium level question on Leetcode.
 
 **Thoughts** I solve this problem with two pointer approach in C++.
+
+**Link(s) to work**
+1. [longest-repeating-character-replacement](https://leetcode.com/problems/longest-repeating-character-replacement/submissions/865354204/)
