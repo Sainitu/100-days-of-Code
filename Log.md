@@ -169,3 +169,9 @@
 **Link(s) to work**
 1. [remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/submissions/864817022/)
 2. [Remove Consecutive Characters](https://practice.geeksforgeeks.org/problems/consecutive-elements2306/1)
+
+### Day 19: December 25, Sunday
+
+**Today's Progress**: I've gone through a medium level question on Leetcode.
+
+**Thoughts** I solve this problem with two pointer approach in C++.
