@@ -178,3 +178,12 @@
 
 **Link(s) to work**
 1. [longest-repeating-character-replacement](https://leetcode.com/problems/longest-repeating-character-replacement/submissions/865354204/)
+
+### Day 20: December 26, Monday
+
+**Today's Progress**: I've gone through a medium level question on leetcode.
+
+**Thoughts** I solve this problem wih no issue as I have solve the simillar problem in my Serv.com coding round also.
+
+**Link(s) to work**
+1. [group-anagrams](https://leetcode.com/problems/group-anagrams/submissions/865870055/)
