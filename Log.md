@@ -187,3 +187,12 @@
 
 **Link(s) to work**
 1. [group-anagrams](https://leetcode.com/problems/group-anagrams/submissions/865870055/)
+
+### Day 21: December 27, Tuesday
+
+**Today's Progress**: I've gone through a medium level question on GFG.
+
+**Thoughts** I solve this problem with few difficulty like how to store the index of old array and count the swaps.
+
+**Link(s) to work**
+1. [minimum-swaps](https://practice.geeksforgeeks.org/problems/minimum-swaps/1)
