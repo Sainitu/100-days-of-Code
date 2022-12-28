@@ -196,3 +196,12 @@
 
 **Link(s) to work**
 1. [minimum-swaps](https://practice.geeksforgeeks.org/problems/minimum-swaps/1)
+
+### Day 22: December 28, Wednesday
+
+**Today's Progress**: I've gone through a medium level question on leetcode.
+
+**Thoughts** I solve this problem I solve this problem with no issue and got to learn few basics of linkedlist.
+
+**Link(s) to work**
+1. [reorder-list](https://leetcode.com/problems/reorder-list/submissions/866966873/)
