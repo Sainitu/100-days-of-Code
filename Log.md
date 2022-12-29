@@ -205,3 +205,12 @@
 
 **Link(s) to work**
 1. [reorder-list](https://leetcode.com/problems/reorder-list/submissions/866966873/)
+
+### Day 23: December 28, Thursday
+
+**Today's Progress**: I've gone through a question on leetcode.
+
+**Thoughts** I solve this problem with no problem as this problem is simply based on two pointers and string.
+
+**Link(s) to work**
+1. [longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/submissions/867605264/)
