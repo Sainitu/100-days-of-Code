@@ -214,3 +214,12 @@
 
 **Link(s) to work**
 1. [longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/submissions/867605264/)
+
+### Day 24: December 30, Friday
+
+**Today's Progress**: I've gone through a medium  question on Leetcode.
+
+**Thoughts** I solve the same problem on leetcode but face lots of difficulty solving this.
+
+**Link(s) to work**
+1. [remove-duplicate-letters](https://leetcode.com/problems/remove-duplicate-letters/submissions/868130676/)
