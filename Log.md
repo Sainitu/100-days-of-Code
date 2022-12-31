@@ -223,3 +223,12 @@
 
 **Link(s) to work**
 1. [remove-duplicate-letters](https://leetcode.com/problems/remove-duplicate-letters/submissions/868130676/)
+
+### Day 25: December 31, Saturday
+
+**Today's Progress**: I've gone through a question on Leetcode.
+
+**Thoughts** I solve the same problem on leetcode but face lots of difficulty solving this as I'm not much good in backtracking questions but now learned this. 
+
+**Link(s) to work**
+1. [Combinations](https://leetcode.com/problems/combinations/submissions/868636842/)
