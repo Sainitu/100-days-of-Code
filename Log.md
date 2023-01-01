@@ -232,3 +232,12 @@
 
 **Link(s) to work**
 1. [Combinations](https://leetcode.com/problems/combinations/submissions/868636842/)
+
+### Day 26: January 1, Sunday
+
+**Today's Progress**: I've gone through a  question on Leetcode.
+
+**Thoughts** I solve this problem with multiple solutions/concepts also with least complex solution everyone said this an easy question but I think it is a little bit tricky somewhere.
+
+**Link(s) to work**
+1. [Perfect Number](https://leetcode.com/problems/perfect-number/submissions/869010660/)
