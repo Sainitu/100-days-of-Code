@@ -241,3 +241,12 @@
 
 **Link(s) to work**
 1. [Perfect Number](https://leetcode.com/problems/perfect-number/submissions/869010660/)
+
+### Day 27: January 2, Monday
+
+**Today's Progress**: I've gone through a  question on leetcode.
+
+**Thoughts** I solve this problem with no issue as I have decided to solve easy level question for next 4 days due to my university Exams and to continue the streak               alive.
+
+**Link(s) to work**
+1. [Roman-To-Integer](https://leetcode.com/problems/roman-to-integer/submissions/869683722/)
