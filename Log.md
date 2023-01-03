@@ -250,3 +250,12 @@
 
 **Link(s) to work**
 1. [Roman-To-Integer](https://leetcode.com/problems/roman-to-integer/submissions/869683722/)
+
+### Day 28: January 3, Tuesday
+
+**Today's Progress**: I've gone through an easy  question on leetcode.
+
+**Thoughts** I solve this problem with no issue as I have decided to solve easy level question for next 3 days due to my university Exams and to continue the streak               alive.
+
+**Link(s) to work**
+1. [Palindrome Number](https://leetcode.com/problems/palindrome-number/submissions/870345834/)
