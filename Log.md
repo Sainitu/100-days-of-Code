@@ -259,3 +259,14 @@
 
 **Link(s) to work**
 1. [Palindrome Number](https://leetcode.com/problems/palindrome-number/submissions/870345834/)
+
+### Day 29: January 4, Wednesday
+
+**Today's Progress**: I've gone through multiple questions on leetcode.
+
+**Thoughts** I solve these problem with no issue as I have decided to solve easy level question for next 3 days due to my university Exams and to continue the streak alive but covers two problem today due to my paper is postponed due to outage.
+
+**Link(s) to work**
+1. [merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/submissions/871140460/)
+2. [merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/871143339/)
+3. [sort-list](https://leetcode.com/problems/sort-list/submissions/871144554/)
