@@ -279,3 +279,12 @@
 
 **Link(s) to work**
 1. [length-of-last-word](https://leetcode.com/problems/length-of-last-word/submissions/871899420/)
+
+### Day 31: January 6, Friday
+
+**Today's Progress**: I've gone through an daily challenge question on leetcode.
+
+**Thoughts** I solve this problem with no issue as I have decided to solve easy level question for next 3 days due to my university Exams and to continue the streak               alive.
+
+**Link(s) to work**
+1. [maximum-ice-cream-bars](https://leetcode.com/problems/maximum-ice-cream-bars/submissions/872753708/)
