@@ -288,3 +288,12 @@
 
 **Link(s) to work**
 1. [maximum-ice-cream-bars](https://leetcode.com/problems/maximum-ice-cream-bars/submissions/872753708/)
+
+### Day 32: January 7, Saturday
+
+**Today's Progress**: I've gone through an medium level question on leetcode.
+
+**Thoughts** I solve this problem with no issue as I have decided to solve easy level question till 11 due to my university Exams and to continue the streak               alive.
+
+**Link(s) to work**
+1. [clumsy-factorial](https://leetcode.com/problems/clumsy-factorial/submissions/873200525/)
