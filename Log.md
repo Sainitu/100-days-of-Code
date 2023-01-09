@@ -307,3 +307,12 @@
 **Link(s) to work**
 1. [find-minimum-number-of-merge-operations-to-make-an-array-palindrome](https://www.geeksforgeeks.org/find-minimum-number-of-merge-operations-to-make-an-array-palindrome/)
 2. [ugly-number](https://leetcode.com/problems/ugly-number/submissions/874179406/)
+
+### Day 34: January 9, Monday
+
+**Today's Progress**: I've gone through an medium level question on GFG & leetcode.
+
+**Thoughts** I solve this problem with no issue as I have decided to solve easy level question till 11 due to my university Exams and to continue the streak               alive.
+
+**Link(s) to work**
+1. [binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/874870652/)
