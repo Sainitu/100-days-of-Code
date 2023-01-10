@@ -316,3 +316,12 @@
 
 **Link(s) to work**
 1. [binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/874870652/)
+
+### Day 35: January 10, Tuesday
+
+**Today's Progress**: I've gone through an question on leetcode.
+
+**Thoughts** I solve this problem with no issue as I have decided to solve easy level question till 11 due to my university Exams and to continue the streak               alive.
+
+**Link(s) to work**
+1. [binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/875435874/)
