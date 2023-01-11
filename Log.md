@@ -325,3 +325,12 @@
 
 **Link(s) to work**
 1. [binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/875435874/)
+
+### Day 36: January 11, Wednesday
+
+**Today's Progress**: I've gone through an question on leetcode.
+
+**Thoughts** I solve this problem with no issue as due to university exam and clg's hactic schedule I was not able to solve multiple questions today.
+
+**Link(s) to work**
+1. [concatenation-of-array](https://leetcode.com/problems/concatenation-of-array/submissions/876236431/)
