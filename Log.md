@@ -334,3 +334,13 @@
 
 **Link(s) to work**
 1. [concatenation-of-array](https://leetcode.com/problems/concatenation-of-array/submissions/876236431/)
+
+
+### Day 37: January 12, Thrusday
+
+**Today's Progress**: I've gone through an question on leetcode.
+
+**Thoughts** I solve this problem with no issue as I have decided to cover all aspects of above questions.
+
+**Link(s) to work**
+1. [two-sum](https://leetcode.com/problems/two-sum/submissions/876798719/)
