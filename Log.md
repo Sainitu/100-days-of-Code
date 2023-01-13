@@ -340,7 +340,19 @@
 
 **Today's Progress**: I've gone through an question on leetcode.
 
-**Thoughts** I solve this problem with no issue as I have decided to cover all aspects of above questions.
+**Thoughts** I solve this problem with no issue as I have decided to cover all aspects of above questions within few days.
 
 **Link(s) to work**
 1. [two-sum](https://leetcode.com/problems/two-sum/submissions/876798719/)
+
+
+### Day 38: January 13, Friday
+
+**Today's Progress**: I've gone through an question on leetcode.
+
+**Thoughts** I solve this problem with no issue as I have decided to cover all aspects of above questions within few days.
+
+**Link(s) to work**
+1. [add-two-integers](https://leetcode.com/problems/add-two-integers/submissions/877521536/)
+2. [recyclable-and-low-fat-products](https://leetcode.com/problems/recyclable-and-low-fat-products/submissions/877523987/)
+3. [running-sum-of-1d-array](https://leetcode.com/problems/running-sum-of-1d-array/submissions/877525633/)
