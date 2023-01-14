@@ -356,3 +356,12 @@
 1. [add-two-integers](https://leetcode.com/problems/add-two-integers/submissions/877521536/)
 2. [recyclable-and-low-fat-products](https://leetcode.com/problems/recyclable-and-low-fat-products/submissions/877523987/)
 3. [running-sum-of-1d-array](https://leetcode.com/problems/running-sum-of-1d-array/submissions/877525633/)
+
+### Day 39: January 14, Saturday
+
+**Today's Progress**: I've gone through an question on leetcode.
+
+**Thoughts** I solve this problem with no issue as I have decided to cover all aspects of above questions within few days.
+
+**Link(s) to work**
+1. [smallest-even-multiple](https://leetcode.com/problems/smallest-even-multiple/submissions/878084113/)
