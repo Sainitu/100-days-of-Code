@@ -365,3 +365,12 @@
 
 **Link(s) to work**
 1. [smallest-even-multiple](https://leetcode.com/problems/smallest-even-multiple/submissions/878084113/)
+
+### Day 40: January 15, Sunday
+
+**Today's Progress**: I've gone through an question on leetcode.
+
+**Thoughts** I solve this problem with no issue as I have decided to cover all aspects of above questions within few days.
+
+**Link(s) to work**
+1. [integer-to-roman](https://leetcode.com/problems/integer-to-roman/submissions/878703726/)
