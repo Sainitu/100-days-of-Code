@@ -374,3 +374,13 @@
 
 **Link(s) to work**
 1. [integer-to-roman](https://leetcode.com/problems/integer-to-roman/submissions/878703726/)
+
+### Day 41: January 16, Monday
+
+**Today's Progress**: I've gone through an question on leetcode.
+
+**Thoughts** I solve this problem with no issue as today i solved an SQL Query and an algorithm coding question.
+
+**Link(s) to work**
+1. [find-total-time-spent-by-each-employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/submissions/879326148/)
+2. [difference-between-element-sum-and-digit-sum-of-an-array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/submissions/879329969/)
