@@ -384,3 +384,12 @@
 **Link(s) to work**
 1. [find-total-time-spent-by-each-employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/submissions/879326148/)
 2. [difference-between-element-sum-and-digit-sum-of-an-array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/submissions/879329969/)
+
+### Day 42: January 17, Tuesday
+
+**Today's Progress**: I've gone through an MEDIUM level question on leetcode.
+
+**Thoughts** I solve this problem with no issue as today I have gone through an algorithm coding question.
+
+**Link(s) to work**
+1. [add-two-numbers](https://leetcode.com/problems/add-two-numbers/submissions/880015161/)
