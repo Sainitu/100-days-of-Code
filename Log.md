@@ -402,3 +402,12 @@
 
 **Link(s) to work**
 1. [remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/880444696/)
+
+### Day 44: January 19, thrusday
+
+**Today's Progress**: I've gone through an  question on leetcode.
+
+**Thoughts** I solve this problem with no issue as today I have gone through an algorithm coding question.
+
+**Link(s) to work**
+1. [divide-two-integers](https://leetcode.com/problems/divide-two-integers/submissions/881073449/)
