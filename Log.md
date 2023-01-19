@@ -405,9 +405,10 @@
 
 ### Day 44: January 19, thrusday
 
-**Today's Progress**: I've gone through an  question on leetcode.
+**Today's Progress**: I've gone through an medium & hard level question on leetcode.
 
 **Thoughts** I solve this problem with no issue as today I have gone through an algorithm coding question.
 
 **Link(s) to work**
 1. [divide-two-integers](https://leetcode.com/problems/divide-two-integers/submissions/881073449/)
+2. [merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists/submissions/881084449/)
