@@ -421,3 +421,4 @@
 
 **Link(s) to work**
 1. [delete-node-in-a-linked-list](https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/881746777/)
+2. [remove-linked-list-elements](https://leetcode.com/problems/remove-linked-list-elements/submissions/881751019/)
