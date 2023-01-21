@@ -422,3 +422,12 @@
 **Link(s) to work**
 1. [delete-node-in-a-linked-list](https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/881746777/)
 2. [remove-linked-list-elements](https://leetcode.com/problems/remove-linked-list-elements/submissions/881751019/)
+
+### Day 46: January 21, Saturday
+
+**Today's Progress**: I've gone through an question on leetcode.
+
+**Thoughts** I solve this problem with no issue as today I have gone through an algorithm coding question.
+
+**Link(s) to work**
+1. [missing-number](https://leetcode.com/problems/missing-number/submissions/882275208/)
