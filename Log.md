@@ -440,3 +440,12 @@
 
 **Link(s) to work**
 1. [find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number/submissions/882968983/)
+
+### Day 48: January 23, Monday
+
+**Today's Progress**: I've gone through an medium level question on leetcode.
+
+**Thoughts** I solve this problem with no issue as today I have gone through an algorithm coding question but I don't know how this question is rated with medium difficulty as we just have to add one value to the last value of an given array.
+
+**Link(s) to work**
+1. [plus-one](https://leetcode.com/problems/plus-one/submissions/883587773/)
