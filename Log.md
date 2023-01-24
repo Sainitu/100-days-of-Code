@@ -449,3 +449,12 @@
 
 **Link(s) to work**
 1. [plus-one](https://leetcode.com/problems/plus-one/submissions/883587773/)
+
+### Day 49: January 23, Monday
+
+**Today's Progress**: I've gone through an question on leetcode.
+
+**Thoughts** I solve this problem with no issue as today I have gone through an algorithm coding question but I don't know how this question is rated with medium difficulty as we just have to add one value to the last value of an given array.
+
+**Link(s) to work**
+1. [shuffle-the-array](https://leetcode.com/problems/shuffle-the-array/submissions/884545286/)
