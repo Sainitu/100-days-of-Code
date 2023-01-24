@@ -450,7 +450,7 @@
 **Link(s) to work**
 1. [plus-one](https://leetcode.com/problems/plus-one/submissions/883587773/)
 
-### Day 49: January 23, Monday
+### Day 49: January 24, Tuesday
 
 **Today's Progress**: I've gone through an question on leetcode.
 
@@ -458,3 +458,12 @@
 
 **Link(s) to work**
 1. [shuffle-the-array](https://leetcode.com/problems/shuffle-the-array/submissions/884545286/)
+
+### Day 50: January 25, Wednesday
+
+**Today's Progress**: I've gone through an question on leetcode.
+
+**Thoughts** I solve this problem with no issue But I can say it is a nice logical coding question.
+
+**Link(s) to work**
+1. [maximum-number-of-words-found-in-sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/submissions/884552924/)
