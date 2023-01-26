@@ -467,3 +467,12 @@
 
 **Link(s) to work**
 1. [maximum-number-of-words-found-in-sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/submissions/884552924/)
+
+### Day 51: January 26, Thrusday
+
+**Today's Progress**: I've gone through an question on leetcode.
+
+**Thoughts** I solve this problem with no issue But I can say it is a nice logical coding question.
+
+**Link(s) to work**
+1. [first-unique-character-in-a-string](https://leetcode.com/problems/first-unique-character-in-a-string/submissions/885832360/)
