@@ -476,3 +476,12 @@
 
 **Link(s) to work**
 1. [first-unique-character-in-a-string](https://leetcode.com/problems/first-unique-character-in-a-string/submissions/885832360/)
+
+### Day 52: January 27, Friday
+
+**Today's Progress**: I've gone through an question on GFG & leetcode.
+
+**Thoughts** I solve this problem with no issue But I can say it is a nice logical question that requires you mind properly.
+
+**Link(s) to work**
+1. [find-duplicates-in-on-time-and-constant-extra-space](https://www.geeksforgeeks.org/find-duplicates-in-on-time-and-constant-extra-space/)
