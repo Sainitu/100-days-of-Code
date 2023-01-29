@@ -494,3 +494,12 @@
 
 **Link(s) to work**
 1. [remove-element](https://leetcode.com/problems/remove-element/submissions/886984789/)
+
+### Day 54: January 29, Sunday
+
+**Today's Progress**: I've gone through an question on leetcode.
+
+**Thoughts** I solve this problem with no issue But I can say it is a nice logical question that requires you mind properly.
+
+**Link(s) to work**
+1. [remove-element](https://leetcode.com/problems/remove-element/submissions/886984789/)
