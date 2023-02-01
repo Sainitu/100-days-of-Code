@@ -502,7 +502,7 @@
 **Thoughts** I solve this problem with no issue But I can say it is a nice logical question that requires you mind properly.
 
 **Link(s) to work**
-1. [https://leetcode.com/problems/remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/889320472/)
+1. [remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/889320472/)
 
 ### Day 55: January 30, Monday
 
@@ -520,4 +520,4 @@
 **Thoughts** I solve this problem with no issue But I can say it is a nice logical question that requires you mind properly.
 
 **Link(s) to work**
-1. [permutations](https://leetcode.com/problems/permutations/submissions/889326046/)
+1. [per](https://leetcode.com/problems/permutations/submissions/889326046/)
