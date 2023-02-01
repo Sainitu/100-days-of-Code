@@ -503,3 +503,12 @@
 
 **Link(s) to work**
 1. [remove-element](https://leetcode.com/problems/remove-element/submissions/886984789/)
+
+### Day 55: January 30, Monday
+
+**Today's Progress**: I've gone through an question on leetcode.
+
+**Thoughts** I solve this problem with no issue But I can say it is a nice logical question that requires you mind properly.
+
+**Link(s) to work**
+1. [permutations](https://leetcode.com/problems/permutations/submissions/889326046/)
