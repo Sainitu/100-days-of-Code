@@ -502,7 +502,7 @@
 **Thoughts** I solve this problem with no issue But I can say it is a nice logical question that requires you mind properly.
 
 **Link(s) to work**
-1. [remove-element](https://leetcode.com/problems/remove-element/submissions/886984789/)
+1. [https://leetcode.com/problems/remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/889320472/)
 
 ### Day 55: January 30, Monday
 
