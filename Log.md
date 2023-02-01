@@ -512,3 +512,12 @@
 
 **Link(s) to work**
 1. [permutations](https://leetcode.com/problems/permutations/submissions/889326046/)
+
+### Day 56: January 31, Tuesday
+
+**Today's Progress**: I've gone through an question on leetcode.
+
+**Thoughts** I solve this problem with no issue But I can say it is a nice logical question that requires you mind properly.
+
+**Link(s) to work**
+1. [permutations](https://leetcode.com/problems/permutations/submissions/889326046/)
