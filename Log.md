@@ -521,3 +521,40 @@
 
 **Link(s) to work**
 1. [per](https://leetcode.com/problems/permutations/submissions/889326046/)
+
+### Day 57: Feburary 1, Wednesday
+
+**Today's Progress**: I've gone through an question on leetcode.
+
+**Thoughts** I solve this problem with no issue But I can say it is a nice logical question that requires you mind properly.
+
+**Link(s) to work**
+1. [per](https://leetcode.com/problems/permutations/submissions/889326046/)
+
+### Day 58: Feburary 2, Wednesday
+
+**Today's Progress**: I've gone through an question on leetcode.
+
+**Thoughts** I solve this problem with no issue But I can say it is a nice logical question that requires you mind properly.
+
+**Link(s) to work**
+1. [per](https://leetcode.com/problems/permutations/submissions/889326046/)
+
+### Day 59: Feburary 2, Thrusday
+
+**Today's Progress**: I've gone through an question on leetcode.
+
+**Thoughts** I solve this problem with no issue But I can say it is a nice logical question that requires you mind properly.
+
+**Link(s) to work**
+1. [per](https://leetcode.com/problems/permutations/submissions/889326046/)
+
+### Day 60: Feburary 3, Friday
+
+**Today's Progress**: I've gone through an question on leetcode.
+
+**Thoughts** I solve this problem with no issue But I can say it is a nice logical question that requires you mind properly.
+
+**Link(s) to work**
+1. [per](https://leetcode.com/problems/permutations/submissions/889326046/)
+
