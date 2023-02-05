@@ -529,7 +529,7 @@
 **Thoughts** I solve this problem with no issue But I can say it is a nice logical question that requires you mind properly.
 
 **Link(s) to work**
-1. [per](https://leetcode.com/problems/permutations/submissions/889326046/)
+1. [reshape-the-matrix](https://leetcode.com/problems/reshape-the-matrix/submissions/891978682/?envType=study-plan&id=data-structure-i)
 
 ### Day 58: Feburary 2, Wednesday
 
@@ -540,7 +540,7 @@
 **Link(s) to work**
 1. [per](https://leetcode.com/problems/permutations/submissions/889326046/)
 
-### Day 59: Feburary 2, Thrusday
+### Day 59: Feburary 3, Thrusday
 
 **Today's Progress**: I've gone through an question on leetcode.
 
@@ -549,7 +549,7 @@
 **Link(s) to work**
 1. [per](https://leetcode.com/problems/permutations/submissions/889326046/)
 
-### Day 60: Feburary 3, Friday
+### Day 60: Feburary 4, Friday
 
 **Today's Progress**: I've gone through an question on leetcode.
 
@@ -558,7 +558,7 @@
 **Link(s) to work**
 1. [per](https://leetcode.com/problems/permutations/submissions/889326046/)
 
-### Day 61: Feburary 4, Saturday
+### Day 61: Feburary 5, Saturday
 
 **Today's Progress**: I've gone through an question on leetcode.
 
