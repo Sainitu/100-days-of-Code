@@ -520,7 +520,7 @@
 **Thoughts** I solve this problem with no issue But I can say it is a nice logical question that requires you mind properly.
 
 **Link(s) to work**
-1. [per](https://leetcode.com/problems/permutations/submissions/889326046/)
+1. [intersection-of-two-arrays-ii](https://leetcode.com/problems/intersection-of-two-arrays-ii/submissions/891876188/?envType=study-plan&id=data-structure-i)
 
 ### Day 57: Feburary 1, Wednesday
 
