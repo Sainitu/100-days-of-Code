@@ -533,7 +533,7 @@
 
 ### Day 58: Feburary 2, Thrusday
 
-**Today's Progress**: I've gone through an question on leetcode.
+**Today's Progress**: I've gone through an question on GFG.
 
 **Thoughts** I solve this problem with no issue But I can say it is a nice logical question that requires you mind properly.
 
@@ -542,12 +542,12 @@
 
 ### Day 59: Feburary 3, Friday
 
-**Today's Progress**: I've gone through an question on leetcode.
+**Today's Progress**: I've gone through an question on GFG.
 
 **Thoughts** I solve this problem with no issue But I can say it is a nice logical question that requires you mind properly.
 
 **Link(s) to work**
-1. [per](https://leetcode.com/problems/permutations/submissions/889326046/)
+1. [missing-number-in-array](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1?page=1&category[]=Arrays&sortBy=submissions)
 
 ### Day 60: Feburary 4, Saturday
 
