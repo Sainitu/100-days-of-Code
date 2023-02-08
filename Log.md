@@ -556,7 +556,7 @@
 **Thoughts** I solve this problem with no issue But I can say it is a nice logical question that requires you mind properly.
 
 **Link(s) to work**
-1. [per](https://leetcode.com/problems/permutations/submissions/889326046/)
+1. [sort-colors](https://leetcode.com/problems/sort-colors/submissions/751993405/)
 
 ### Day 61: Feburary 5, Sunday
 
