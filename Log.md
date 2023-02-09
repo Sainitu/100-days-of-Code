@@ -574,7 +574,7 @@
 **Thoughts** I solve this problem with no issue But I can say it is a nice logical question that requires you mind properly.
 
 **Link(s) to work**
-1. [per](https://leetcode.com/problems/permutations/submissions/889326046/)
+1. [search-an-element-in-an-array](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1?page=2&category[]=Arrays&sortBy=submissions)
 
 ### Day 63: Feburary 7, Tuesday
 
@@ -586,6 +586,15 @@
 1. [per](https://leetcode.com/problems/permutations/submissions/889326046/)
 
 ### Day 64: Feburary 8, Wednesday
+
+**Today's Progress**: I've gone through an question on leetcode.
+
+**Thoughts** I solve this problem with no issue But I can say it is a nice logical question that requires you mind properly.
+
+**Link(s) to work**
+1. [per](https://leetcode.com/problems/permutations/submissions/889326046/)
+
+### Day 65: Feburary 9, Thrusday
 
 **Today's Progress**: I've gone through an question on leetcode.
 
