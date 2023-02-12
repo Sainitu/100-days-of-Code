@@ -611,3 +611,21 @@
 
 **Link(s) to work**
 1. [per](https://leetcode.com/problems/permutations/submissions/889326046/)
+
+### Day 67: Feburary 11, Saturday
+
+**Today's Progress**: I've gone through an question on leetcode.
+
+**Thoughts** I solve this problem with no issue But I can say it is a nice logical question that requires you mind properly.
+
+**Link(s) to work**
+1. [per](https://leetcode.com/problems/permutations/submissions/889326046/)
+
+### Day 68: Feburary 12, Sunday
+
+**Today's Progress**: I've gone through an question on leetcode.
+
+**Thoughts** I solve this problem with no issue But I can say it is a nice logical question that requires you mind properly.
+
+**Link(s) to work**
+1. [per](https://leetcode.com/problems/permutations/submissions/889326046/)
