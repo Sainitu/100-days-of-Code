@@ -583,7 +583,7 @@
 **Thoughts** I solve this problem with no issue But I can say it is a nice logical question that requires you mind properly.
 
 **Link(s) to work**
-1. [per](https://leetcode.com/problems/permutations/submissions/889326046/)
+1. [largest-element-in-array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1?page=3&category[]=Arrays&sortBy=submissions)
 
 ### Day 64: Feburary 8, Wednesday
 
