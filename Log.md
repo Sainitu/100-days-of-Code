@@ -648,7 +648,16 @@
 **Link(s) to work**
 1. [per](https://leetcode.com/problems/permutations/submissions/889326046/)
 
-### Day 71: Feburary 15, Tuesday
+### Day 71: Feburary 15, Wednesday
+
+**Today's Progress**: I've gone through an question on leetcode.
+
+**Thoughts** I solve this problem with no issue But I can say it is a nice logical question that requires you mind properly.
+
+**Link(s) to work**
+1. [per](https://leetcode.com/problems/permutations/submissions/889326046/)
+
+### Day 72: Feburary 16, Thrusday
 
 **Today's Progress**: I've gone through an question on leetcode.
 
